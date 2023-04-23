@@ -1,0 +1,20 @@
+Czym jest farma fotowoltaiczna i jak dzia≥a?
+SZCZEG”£OWE INFORMACJE:
+Schemat technologiczny procesu wytwarzania energii
+Odnawialne èrÛd≥a Energii (OZE), w postaci instalacji paneli fotowoltaicznych, coraz powszechniej wykorzystywane sπ w gospodarstwach domowych oraz przedsiÍbiorstwach jako sposÛb na realne obniøenie rachunkÛw za energiÍ elektrycznπ. Tego typu rozwiπzania nie tylko sprawdzajπ siÍ na przydomowych posesjach, dachach domÛw wielorodzinnych, czy zak≥adach produkcyjnych, ale rÛwnieø jako generatory prπdu o mocy kilku megawatÛw ñ zasilajπce w energiÍ elektrycznπ obszar np. ca≥ej gminy, zwane farmami fotowoltaicznymi.
+
+CO TO JEST FARMA FOTOWOLTAICZNA?
+Farmy fotowoltaiczne (elektrownie s≥oneczne) pojawiajπ siÍ od niedawna w naszym kraju. To doúÊ nowy rodzaj inwestycji w Polsce. Takie elektrownie s≥oneczne stanowiπ specjalnie wydzielone obszary, na ktÛrych rozlokowane sπ ≥aÒcuchy paneli fotowoltaicznych wraz z instalacjami inwerterÛw solarnych. Zamieniajπ one energiÍ s≥oneczna w elektrycznπ. Produkujπ prπd i przesy≥ajπ do ogÛlnej sieci energetycznej. Zazwyczaj majπ moc od 0,5 do kilku lub kilkunastu MegaWatÛw (MW) i zasilajπ w energiÍ wiÍksze obszary np. gminy, powiatu lub regionu. Dzia≥ajπ one tylko w dzieÒ i wymagajπ magazynowania wyprodukowanej energii elektrycznej.
+
+JAK DZIA£A FARMA FOTOWOLTAICZNA?
+Farma fotowoltaiczna to panele ustawione na specjalnych konstrukcjach, pod≥πczonych ze sobπ szeregowo i rÛwnolegle. W kaødym takim module znajdujπ siÍ ogniwa fotowoltaiczne, wykonane z materia≥u pÛ≥przewodnikowego. W ogniwach zachodzi zjawisko fotoelektryczne. Fotony úwiat≥a s≥onecznego wzbudzajπ w ogniwach ruch elektronÛw, powodujπc tym samym powstanie napiÍcia elektrycznego. Modu≥y PV wytwarzajπ prπd sta≥y, ktÛry w falowniku solarnym zamieniany jest na prπd zmienny, trafiajπcy do sieci.
+Elektrownia s≥oneczna ma okreúlonπ moc wytwarzania energii elektrycznej przy pe≥nym s≥oÒcu. Ta moc zaleøy od iloúci zainstalowanych paneli fotowoltaicznych oraz mocy nominalnej pojedynczego modu≥u PV. Zatem moc farmy fotowoltaicznej stanowi sumÍ mocy wszystkich paneli fotowoltaicznych. Im jest ich wiÍcej, tym wiÍksza moc jest generowana przez farmÍ.
+
+CZY BUDOWA FARMY FOTOWOLTAICZNEJ SI  OP£ACA?
+W Polsce jeszcze 10 lat temu niewiele osÛb interesowa≥o siÍ farmami fotowoltaicznymi. ”wczesny koszt takiej inwestycji wynosi≥ ok. 20 mln z≥ za 1 MW instalacji PV. Produkcja prπdu z takiej instalacji nie by≥a op≥acalna, poniewaø by≥a zbyt droga w porÛwnaniu do produkcji energii z wÍgla. Obecnie koszty elektrowni s≥onecznej wynoszπ ok. 3 mln z≥ za 1 MW. Z czasem taka inwestycja zaczÍ≥a byÊ op≥acalna, juø pod koniec 2018 roku powsta≥o ok. 600 takich farm fotowoltaicznych o ≥πcznej mocy 150 MW. Stopa zwrotu to ok. 7-9 lat ñ przy≥πczenia do energetyki elektrowni s≥onecznych nabierajπ tempa i wyprzedzajπ turbiny wiatrowe.
+W ramach programÛw unijnych moøna otrzymaÊ dofinansowanie nawet na poziomie 85% na budowÍ farmy fotowoltaicznej do produkcji energii elektrycznej, przeznaczonej na spe≥nianie potrzeb prywatnych firm energetycznych, czy operatorÛw energetycznych.
+Koszty kwalifikowane projektÛw farm fotowoltaicznych, finansowane z funduszy unijnych i pieniÍdzy gminnych sπ nastÍpujπce:
+-zakup gruntu nieuøytku rolnego w celu budowy elektrowni s≥onecznej
+-dokumentacja projektowa zawierajπca projekt elektrowni i warunki zabudowy
+-inwertery, modu≥y fotowoltaiczne i ca≥y osprzÍt potrzebny do budowy farmy
+-instalacja i montaø

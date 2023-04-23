@@ -1,0 +1,86 @@
+﻿body
+{
+    
+    font-family:Verdana;
+    font-size:20px;
+    color:white;
+    background-image: url(zdjeciadostrony/tlo.jpg);
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+style
+#calosc {
+    width: 1130px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+    
+    width: 1000px;
+    text-align: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#navi {
+    float: left;
+    color:white;
+    width: 175px;
+    min-height: 330px;
+    padding: 10px;
+}
+
+#content {
+    float: left;
+    padding: 20px;
+    width: 655px;
+    background-color: whitesmoke;
+    color: black;
+    min-height: 600px;
+    text-align: justify;
+}
+
+#ad {
+    float: left;
+    width: 300px;
+    min-height: 350px;
+    padding: 10px;
+    background-color: yellowgreen;
+}
+
+#stopka {
+    clear: both;
+    
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Nieodwiedzone hiperłącze*/
+a:link {
+    color: white;
+}
+/*Odwiedzone hiperłącze*/
+a:visited
+{
+    color:white;
+}
+/*Link po najechaniu kursorem*/
+a:hover
+{
+    color:red;
+}
+h2
+{
+    text-align:center;
+}
